@@ -40,11 +40,4 @@ I build multi-tenant SaaS platforms end to end — from database design and APIs
 - **Document extraction API** — ingestion and callback integration feeding structured data into the ERP
 - **Shared core library** — internal npm package with versioned releases and a release SOP
 
----
-
-### 📊 GitHub stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=i-m-anurag&show_icons=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-m-anurag&layout=compact&hide_border=true" />
-
 <!-- Most of my day-to-day work is in private repos, so these numbers only show public activity. -->
