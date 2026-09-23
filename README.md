@@ -8,7 +8,7 @@ I build multi-tenant SaaS platforms end to end — from database design and APIs
 - 🤖 Working on natural-language querying over business data and LLM-powered workflows
 - 🛠️ Tinkering with **Raspberry Pi, IoT and local LLMs** on weekends
 - 🧭 Also the Scrum Master for one of my teams — I care about clean releases as much as clean code
-- 📫 Reach me at: `your-email@example.com` · [LinkedIn](https://linkedin.com/in/your-handle)
+- 📫 Reach me at: `anuragkumar849@gmail.com` · [LinkedIn](https://www.linkedin.com/in/i-am-anurag/) [Website] (https://www.anuragwork.com/)
 
 ---
 
